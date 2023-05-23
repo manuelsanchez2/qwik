@@ -147,5 +147,15 @@
   {
     "href": "https://leonerd.blog",
     "tags": "portfolio"
-  }
+  },
+  {
+    "href": "https://www.manuelsanchezweb.com/cursos/qwik/",
+    "tags": "portfolio",
+    "repo": "https://github.com/manuelsanchezweb/manuelsanchezweb"
+  },
+  {
+    "href": "https://simpsons-qwik-curso-avanzado.vercel.app/",
+    "tags": "site",
+    "repo": "https://github.com/manuelsanchezweb/qwik-curso-avanzado/tree/main/projects/01-simpsons-quote"
+  },
 ]
